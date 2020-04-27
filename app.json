@@ -1,0 +1,17 @@
+{
+  "name": "aboutreact",
+  "displayName": "aboutreact",
+  "expo": {
+    "name": "aboutreact",
+    "slug": "aboutreact",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
